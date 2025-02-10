@@ -1,0 +1,10 @@
+C:\Users\jhonata.santos\Desktop\C#_forms\sistema_notas\sistema_notas\bin\Debug\sistema_notas.exe.config
+C:\Users\jhonata.santos\Desktop\C#_forms\sistema_notas\sistema_notas\bin\Debug\sistema_notas.exe
+C:\Users\jhonata.santos\Desktop\C#_forms\sistema_notas\sistema_notas\bin\Debug\sistema_notas.pdb
+C:\Users\jhonata.santos\Desktop\C#_forms\sistema_notas\sistema_notas\obj\Debug\sistema_notas.csproj.AssemblyReference.cache
+C:\Users\jhonata.santos\Desktop\C#_forms\sistema_notas\sistema_notas\obj\Debug\sistema_notas.FrmPrincipal.resources
+C:\Users\jhonata.santos\Desktop\C#_forms\sistema_notas\sistema_notas\obj\Debug\sistema_notas.Properties.Resources.resources
+C:\Users\jhonata.santos\Desktop\C#_forms\sistema_notas\sistema_notas\obj\Debug\sistema_notas.csproj.GenerateResource.cache
+C:\Users\jhonata.santos\Desktop\C#_forms\sistema_notas\sistema_notas\obj\Debug\sistema_notas.csproj.CoreCompileInputs.cache
+C:\Users\jhonata.santos\Desktop\C#_forms\sistema_notas\sistema_notas\obj\Debug\sistema_notas.exe
+C:\Users\jhonata.santos\Desktop\C#_forms\sistema_notas\sistema_notas\obj\Debug\sistema_notas.pdb
